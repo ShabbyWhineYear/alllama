@@ -1,0 +1,2 @@
+# alllama
+尝试写个能在小显存上跑的支持中文的模型当作langchain的llm引擎
